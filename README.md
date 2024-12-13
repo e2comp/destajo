@@ -170,7 +170,7 @@
         </div>
         <!-- Embedded Media -->
         <div class="image-container">
-            <img src="your-image-url-here.jpg" alt="Sample Image">
+            <img src="images (5).jpeg" alt="Sample Image">
         </div>
         <!-- Changed YouTube video -->
         <iframe width="100%" height="400" src="https://www.youtube.com/embed/Ip-u5NZJiwY" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
